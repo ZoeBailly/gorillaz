@@ -1,0 +1,25 @@
+h1{
+
+    font-family: 'Roboto Slab', serif;
+    color: black;
+    background-color: palevioletred;
+    text-align: center;
+}
+#photoune{
+    background-image: url(https://assets-prd.ignimgs.com/2021/11/25/gorillaz-1637839431672.jpg);
+    width: 99vw;
+}
+
+p{
+font-family:Arial, Helvetica, sans-serif
+}
+
+body{background-color: bisque;
+}
+video{
+    margin: 0 auto;
+    width: 1050px;
+    display:block;
+
+
+}
